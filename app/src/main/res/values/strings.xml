@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica1Parte2</string>
+    <string name="title">Practica 1 parte 2 Sergio Martí</string>
+    <string name="write_your_password">Introduce una clave:</string>
+    <string name="user_password">tu clave</string>
+    <string name="check">Comprobar</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="warning_no_password">Es necesario introducir la clave.</string>
+</resources>
